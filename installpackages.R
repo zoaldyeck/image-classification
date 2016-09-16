@@ -1,0 +1,6 @@
+source("http://bioconductor.org/biocLite.R")
+biocLite()
+biocLite("EBImage")
+install.packages("ForeCA")
+install.packages("amap")
+install.packages("e1071")
